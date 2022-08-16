@@ -12,8 +12,8 @@ on:
       - synchronize
       - reopened
 jobs:
-  dependency-review:
-    name: Dependency Review
+  analyze:
+    name: Analyze
     runs-on: ubuntu-latest
     permissions:
       contents: read
