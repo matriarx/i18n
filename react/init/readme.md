@@ -41,6 +41,8 @@
 
 A TypeScript project template that contains minimalistic boilerplate for any project.  It uses `swc` for compilation, `typescript` for type checking and is preconfigured with `eslint`, `prettier`, `jest` and `docker`.  You likely don't want to use everything exactly the way it is, but it'll get you set up quickly.  The rest is up to you.
 
+This package contains the binary to set up the project at https://github.com/matriarx/typescript.
+
 ## 🧚🏻‍♀️✨ Status 🌈☁️
 
 <p>
@@ -255,13 +257,25 @@ You can either use the bin script or you can set it up manually.
 🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/matriarx/typescript/blob/main/license)
 
-## 🧚🏻‍♀️✨ Collaboration ✨💕
+## 🧚🏻‍♀️✨ Contributors 💎🚀
 
-Thank you to the [authors](https://github.com/matriarx/i18n/blob/main/docs/authors.md) who created this project, the [contributors](https://github.com/matriarx/i18n/blob/main/docs/contributors.md) who collaborated, the [supporters](https://github.com/matriarx/i18n/blob/main/docs/supporters.md) who help make it possible, as well as notable [acknowledgements](https://github.com/matriarx/i18n/blob/main/docs/acknowledgements.md).
+Thank you to all the [authors](https://github.com/matriarx/typescript/blob/main/docs/authors.md) and [contributors](https://github.com/matriarx/typescript/blob/main/docs/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/matriarx/typescript/blob/main/docs/acknowledgements.md).
 
-🧚🏻‍♀️✨ Contributors 💎🚀
+![Contributors](https://contrib.rocks/image?repo=matriarx/typescript)
 
-![Contributors](https://contrib.rocks/image?repo=matriarx/i18n)
+If you would like to contribute have a look at our [code of conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md).
+
+## 🧚🏻‍♀️✨ Support ✨💕
+
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🔮✨
+
+Have a look at my [GitHub](https://github.com/sponsors/matriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn by supporting me ✨🧚🏻‍♀️
+
+I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
+
+At the cost of a coffee you can help make the world a better place ✨💕
+
+🧚🏻‍♀️✨ A special thank you to all the wonderful [supporters](https://github.com/matriarx/typescript/blob/main/docs/supporters.md) who make it all possible ✨💕
 
 ## 🧚🏻‍♀️✨ License 🔮✨
 
@@ -379,6 +393,8 @@ Thank you to the [authors](https://github.com/matriarx/i18n/blob/main/docs/autho
       <img src="https://img.shields.io/badge/Donate-40a0a0?logo=bunq&logoColor=ffffff" title="Donate" alt="Donate"/>
     </a>
   </p>
+
+  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> 🔮✨</p>
 </div>
 
 <p>

@@ -1,0 +1,53 @@
+{
+  "test": ".*.ts$",
+  "isModule": true,
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "dynamicImport": true,
+      "privateMethod": false,
+      "functionBind": false,
+      "topLevelAwait": false,
+      "exportDefaultFrom": false,
+      "exportNamespaceFrom": false,
+      "decorators": false,
+      "decoratorsBeforeExport": false,
+      "importMeta": false,
+      "jsx": false,
+      "tsx": false
+    },
+    "transform": {
+      "legacyDecorator": false,
+      "decoratorMetadata": false
+    },
+    "baseUrl": ".",
+    "paths": {
+      "app/*": ["src/*"],
+      "core/*": ["src/core/*"],
+      "api/*": ["src/api/*"],
+      "data/*": ["src/data/*"],
+      "utils/*": ["src/utils/*"],
+      "enums/*": ["src/enums/*"],
+      "types/*": ["src/types/*"]
+    },
+    "target": "es2022",
+    "loose": false,
+    "keepClassNames": false,
+    "externalHelpers": false,
+    "preserveAllComments": false,
+    "experimental": {
+      "keepImportAssertions": true
+    }
+  },
+  "module": {
+    "type": "nodenext",
+    "strict": true,
+    "strictMode": true,
+    "noInterop": false,
+    "lazy": false
+  },
+  "sourceMaps": true,
+  "inlineSourcesContent": true,
+  "emitSourceMapColumns": true,
+  "minify": true
+}
