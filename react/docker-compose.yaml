@@ -1,0 +1,20 @@
+---
+version: '3.8'
+volumes:
+  node_modules:
+services:
+  typescript:
+    build:
+      context: .
+      dockerfile: dockerfile
+      args:
+        TAG: 18-alpine
+        PORT: ${PORT}
+    image: typescript-dev
+    container_name: typescript-dev
+    restart: on-failure:10
+    ports:
+      - ${PORT}:${PORT}
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
