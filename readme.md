@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ i18n ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>🔮 An internationalization and localization project 🦄</p>
+  <p>🔮 i18n 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
@@ -39,7 +39,7 @@
   </p>
 </div>
 
-An internationalization and localization project.
+A (GitHub) repository template that contains minimalistic boilerplate for any repository.  It contains basic documentation, badges and preconfigured CI/CD workflows.  You likely don't want to use everything exactly the way it is, but it'll allow you to get set up quickly.  The rest is up to you.
 
 ## 🧚🏻‍♀️✨ Status 🌈☁️
 
