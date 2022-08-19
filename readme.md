@@ -39,8 +39,6 @@
   </p>
 </div>
 
-A (GitHub) repository template that contains minimalistic boilerplate for any repository.  It contains basic documentation, badges and preconfigured CI/CD workflows.  You likely don't want to use everything exactly the way it is, but it'll allow you to get set up quickly.  The rest is up to you.
-
 ## 🧚🏻‍♀️✨ Status 🌈☁️
 
 <p>
