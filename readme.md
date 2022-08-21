@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ i18n ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>🔮 i18n 🦄</p>
+  <p>🔮 Internationalization & Localization 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
