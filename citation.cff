@@ -3,7 +3,7 @@ message: "No citation is required to use this software."
 authors:
   - family-names: "Matriarx"
     given-names: "Mia"
-title: "i18n"
+title: "I18n"
 verion: "0.0.1"
 date-released: 2022-08-15
 url: "https://github.com/matriarx/i18n"
