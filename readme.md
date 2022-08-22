@@ -1,4 +1,4 @@
-<h1 align="center">🧚🏻‍♀️✨ i18n ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
+<h1 align="center">🧚🏻‍♀️✨ I18n ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
   <p>🔮 Internationalization & Localization 🦄</p>
